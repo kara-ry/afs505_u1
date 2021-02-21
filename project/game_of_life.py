@@ -14,7 +14,7 @@
                  X represents "on" or alive
                  - represents "off" or dead
                  This was reviewed by Kerry McGowan
-                 Reviewer grade =
+                 Reviewer grade = 100
 
 .. moduleauthor:: Kara Ryan kara.ryan@wsu.edu
 
