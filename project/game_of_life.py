@@ -1,4 +1,4 @@
-"""AFS 505 U1 Project
+"""The Game of Life
 .. module:: game_of_life
     :platform: Unix, OS
     :synopsis:  This is a project to create the program Conway's Game of Life using python3.
@@ -13,8 +13,6 @@
                     Northeast, Northwest, Southeast and Southwest of the cell.
                  X represents "on" or alive
                  - represents "off" or dead
-                 This was reviewed by Kerry McGowan
-                 Reviewer grade = 100
 
 .. moduleauthor:: Kara Ryan kara.ryan@wsu.edu
 
